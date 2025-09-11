@@ -1,3 +1,5 @@
 # README
 
-rock paper scissors game
+rock paper scissors game with feature(s)
+- rps-ui
+
